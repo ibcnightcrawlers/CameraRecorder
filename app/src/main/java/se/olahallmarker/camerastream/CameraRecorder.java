@@ -190,7 +190,7 @@ public class CameraRecorder extends AppCompatActivity {
             SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
             String host = "192.168.43.224";
             //String host = "192.168.43.38";
-            String port = "41234"; //prefs.getString("bazingaport", "9000");
+            String port = "41234";
             Integer server_port = Integer.parseInt(port);
             String contributor_id = prefs.getString("contributor-id", "cam");
             InetAddress server_host;
@@ -443,7 +443,7 @@ public class CameraRecorder extends AppCompatActivity {
 
             //Drawable replacer = getResources().getDrawable(R.drawable.images_2);
             //button.setEnabled(false);
-            button.setImageResource(R.drawable.images_2);
+            button.setImageResource(R.drawable.rec);
             //button.destroyDrawingCache();
             //button.setBackground(replacer);
             //button.setEnabled(true);
@@ -732,9 +732,10 @@ public class CameraRecorder extends AppCompatActivity {
             mEncoder.signalEndOfInputStream();
         }
 
+        // UDP to H264 receiver
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-        String host = prefs.getString("bazingaserver", "127.0.0.1");
-        String port = prefs.getString("bazingaport", "9000");
+        String host = prefs.getString("server-ip", "127.0.0.1");
+        String port = prefs.getString("server-port", "9000");
         Integer server_port = Integer.parseInt(port);
         InetAddress local;
 

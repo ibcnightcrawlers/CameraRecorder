@@ -37,7 +37,7 @@
 
     <ImageButton
         android:id="@+id/recBtn"
-        android:src="@drawable/images_2"
+        android:src="@drawable/rec"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:scaleType="fitXY"
