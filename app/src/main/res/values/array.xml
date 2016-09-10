@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="bitrateArray">
+        <item>100 kbps  (320x240)</item>
+        <item>300 kbps  (320x240)</item>
+        <item>600 kbps  (640x480)</item>
+        <item>1000 kbps (640x480)</item>
+        <item>2000 kbps (1440x1080)</item>
+    </string-array>
+
+    <string-array name="bitrateValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

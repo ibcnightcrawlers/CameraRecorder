@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="Server Host"
+        android:key="bazingaserver"
+        android:summary="IP or hostname to the Server"
+        android:defaultValue="192.168.1.6">
+    </EditTextPreference>
+    <EditTextPreference android:title=" Server Port"
+        android:key="bazingaport"
+        android:summary="Port to the Server"
+        android:defaultValue="9001">
+    </EditTextPreference>
+    <EditTextPreference android:title="Contributor-ID"
+        android:key="contributor-id"
+        android:summary="Name of the contributor"
+        android:defaultValue="cam">
+    </EditTextPreference>
+    <ListPreference     android:title="Video Quality"
+        android:summary="Select the video quality"
+        android:key="quality"
+        android:defaultValue="3"
+        android:entries="@array/bitrateArray"
+        android:entryValues="@array/bitrateValues" />
+</PreferenceScreen>

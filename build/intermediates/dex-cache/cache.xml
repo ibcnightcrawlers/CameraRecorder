@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_e6db3886df80189169f732dc93799fc9b8ca9384/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_e04ebd6db84eebc6e74dd79dfe460cf29e133995/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8bae80ed56afb4c48b6b2cfcd3ec2d947bcc940">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_41427d14c63febe4927974120c80126d4c1f382d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_790fae0074d946b4c2010134a107de30ca975f14/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_e08673cd3357840d37843580dea4c140a6202ae9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e3baad725ef177fdecea45e484cef4dd03d6cfc3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_69aec37df67185f06f1259a4d6041d16f2e6e0ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_fe306ef637f1ef348f3b2251e347dab2748ebb30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_03bdc69439ccfe570c72af37e079a0acbc4f1fd8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b48b861203e5b0aa79d8614cb9f1e34814b5d4a8">
+        <dex dex="/Users/olahallmarker/git/CameraRecorder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a175ef0e4b701747478923d3124c48dfe016cba4/classes.dex" />
+    </item>
+
+</items>
